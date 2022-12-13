@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog> Информация о фильме
+    <cinema1> 
+      <title>Один дома</title>
+      <genre>комедия, семейный</genre>
+      <country> США</country>
+      <year>1990</year>
+      <actors>Маколей Калкин, Джо Пеши,Дэниел Стерн</actors>
+      <duration>103 мин.</duration>
+      <evaluation>8.3</evaluation>
+    </cinema1>
+
+    <cinema2> 
+      <title>Бриллиантовая рука</title>
+      <genre>комедия, криминал</genre>
+      <country> СССР</country>
+      <year>1968</year>
+      <actors>Юрий Никулин, Андрей Миронов, Анатолий Папанов</actors>
+      <duration>94 мин.</duration>
+      <evaluation>8.5</evaluation>
+    </cinema2>
+
+    <cinema3> 
+      <title>Леон</title>
+      <genre>боевик, триллер, драма, криминал</genre>
+      <country>Франция, США</country>
+      <year>1994</year>
+      <actors>Жан Рено, Натали Портман, Гари Олдман</actors>
+      <duration>133 мин.</duration>
+      <evaluation>8.7</evaluation>
+    </cinema3>
+
+    <cinema4> 
+      <title>Брат 2</title>
+      <genre>боевик, криминал</genre>
+      <country>Россия, США</country>
+      <year>2000</year>
+      <actors>Сергей Бодров мл., Виктор Сухоруков, Сергей Маковецкий</actors>
+      <duration>127 мин.</duration>
+      <evaluation>8.2</evaluation>
+    </cinema4>
+
+    <cinema5> 
+      <title>Волк с Уолл-стрит</title>
+      <genre>драма, криминал, биография, комедия</genre>
+      <country>США</country>
+      <year>2013</year>
+      <actors>Леонардо ДиКаприо, Джона Хилл, Марго Робби</actors>
+      <duration>180 мин.</duration>
+      <evaluation>8</evaluation>
+    </cinema5>
+  
+</catalog>
